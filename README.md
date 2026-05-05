@@ -70,6 +70,10 @@ Screenshots
 ### Private Messaging
 ![Private](screenshots/private_message.png)
 
+### Commands
+![Private](screenshots/commands.png)
+
+
 Future Improvements
 Web-based chat UI (WebSockets + frontend)
 Persistent database storage for messages
